@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.nav-details{
+    background-color: #29846D;
+    padding: 15px 25px;
+    font-size: 12px;
+    height: 30px;
+    color: white;
+}
+
+.navbar-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.phone-and-email{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.call-image{
+    margin-right: 5px;
+    width: 11px;
+}
+
+.call-number{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.email-address{
+    display: flex;
+    align-items: center;
+}
+
+.social-media-platforms{
+    display: flex;
+    flex-direction: row;
+}
+
+.social-image-container{
+    cursor: pointer;
+    width: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 5px;
+}
+
+.social-image{
+    width: 12px;
+}
+

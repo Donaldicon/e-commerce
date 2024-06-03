@@ -1,0 +1,30 @@
+.all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.three-and-four{
+    display: flex;
+    align-items: center;
+}
+
+.furniture-images{
+    width: 300px;
+    padding-right: 15px;
+    border-radius: 4px;
+}
+.furniture-image{
+    width: 300px;
+    border-radius: 4px;
+}
+.furniture-image-two{
+    width: 615px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+}
+.furniture-image-one{
+    width: 405px;
+    margin-right: 10px;
+    border-radius: 4px;
+}
